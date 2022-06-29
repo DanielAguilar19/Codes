@@ -1,0 +1,94 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Helvetica,Arial,sans-serif;
+}
+
+body{   
+    height: 100vh;
+    width: 100vw;
+    background-image: url(img/fondo.jpg);
+
+}
+
+div{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+img{
+padding: 10px;
+height: 130px;
+}
+
+section{
+    height: 560px;
+    width: 300px;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 5px;
+    padding: 30px 60px;
+    margin-left: 40%;
+    margin-right: 60%;
+   
+
+}
+h1{
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.botones{
+    width: 100%;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 1rem;
+    margin-bottom: 15px; 
+    background-color: rgb(65, 64, 64);
+    border-radius: 5px;
+    border-width: 0;
+    color: rgb(209, 209, 209);
+}
+
+#inicio{
+    margin-top: 20px;
+    margin-bottom: 35px;
+    background-color: rgb(192, 0, 0);
+    font-weight: bold;
+}
+#inicio:hover{
+    background-color: red;
+    cursor: pointer;
+}
+.a{
+    padding-left: 20%;
+}
+#checkbox{
+    padding-right: 40%;
+}
+.bottom{
+    color:rgb(97, 97, 97) ;
+    font-size: 15px;
+}
+.pie{
+
+    color:rgb(97, 97, 97) ;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+#link2{
+    padding-left: 5%;
+
+}
+#link3{
+    color: blue;
+
+}
+.links{
+    text-decoration: none;
+}
+
+
+
